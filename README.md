@@ -639,5 +639,3 @@ The project provides a practical foundation for:
 
 ---
 # !!! ReadMe was produced by GPT. Check the important info
-* [Gensim Documentation](https://radimrehurek.com/gensim/?utm_source=chatgpt.com)
-* [Matplotlib Documentation](https://matplotlib.org/stable/contents.html?utm_source=chatgpt.com)
